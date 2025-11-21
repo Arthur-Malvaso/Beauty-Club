@@ -1,6 +1,10 @@
 # Atividade de Extensão Dev+Git
 
-## E-commerce: Beauty Club 
+## E-commerce: Beauty Club
+
+Pode ser acessado pelo link 🔗: https://beauty-club-e27v.onrender.com
+
+---
 
 ### Integrantes  
 - **Integrante Líder:** Arthur Malvaso  
