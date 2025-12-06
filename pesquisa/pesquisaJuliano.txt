@@ -1,0 +1,7 @@
+o que é branch?
+as branches são como umo um desenho, por exemplo na main eu criei a cabeça do meu boneco,
+e na branch eu irei trabalhar os detalhes da cabeça que eu quero, por exemplo os olhos, aí eu faço todos
+os detalhes dos olhos e depois eu irei colocar na minha main que é a cabeça.
+o que é merge?
+seguindo o exemplo que eu dei, a merge é quando eu passo a cola nos olhos e e colo na cabeça aí a branch olhos
+vai parar na main cabeça, aí eu consigo ver a main com a cabeça e os olhos
